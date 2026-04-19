@@ -1,0 +1,20 @@
+Customer Name,Unit,Area,Rate,Late Status,Balance,category
+"Vallas, Nicholas",100,25,89,,0,residential
+"Lambright, Raymond",101,150,237,,0,residential
+"Gocha, Bodin",102,250,321,,0,residential
+"C/O Christopher Brooks, Building Kidz Nashville",103,150,237,,0,residential
+"Mills, Joy",104,250,274,,0,residential
+"Mills, Joy",105,150,214.5,,0,residential
+"Banks, Bill",106,250,316,,0,residential
+"Bell, Jeffrey",108,100,146,,0,store
+"Yontz, Shawn",109,75,144,,0,store
+"Phillips, Amy",110,200,289,,0,store
+"Cawood, Barbara",111,150,237,,-269,store
+"Ruiz, Dawn",112,200,290,,0,store
+"Gomez, Fabian",113,150,249,,0,store
+"Zuch, Tiffani",114,200,290,,0,parking
+"Lee, George",115,150,232,,0,parking
+,,,,,,parking
+"Delong, Meagan",117,150,243,,0,parking
+"Donovan, Nancy",118,250,316,,0,parking
+"Campbell, Frank and Regina",119,150,237,,0,parking
