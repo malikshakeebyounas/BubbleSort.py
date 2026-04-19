@@ -1,0 +1,551 @@
+Customer Name,Unit,Area,Rate,Late Status,Balance
+"Vallas, Nicholas",100,25,89,,0
+"Lambright, Raymond",101,150,237,,0
+"Gocha, Bodin",102,250,321,,0
+"C/O Christopher Brooks, Building Kidz Nashville",103,150,237,,0
+"Mills, Joy",104,250,274,,0
+"Mills, Joy",105,150,214.5,,0
+"Banks, Bill",106,250,316,,0
+"Bell, Jeffrey",108,100,146,,0
+"Yontz, Shawn",109,75,144,,0
+"Phillips, Amy",110,200,289,,0
+"Cawood, Barbara",111,150,237,,-269
+"Ruiz, Dawn",112,200,290,,0
+"Gomez, Fabian",113,150,249,,0
+"Zuch, Tiffani",114,200,290,,0
+"Lee, George",115,150,232,,0
+"RINDIN, JAMES",116,60,129,,0
+"Delong, Meagan",117,150,243,,0
+"Donovan, Nancy",118,250,316,,0
+"Campbell, Frank and Regina",119,150,237,,0
+"Cramer, Stephen",120,40,99,,0
+"Bates, Leaann",121,40,101,,0
+"Green-Posey, Rebecca",122,50,123,Step 2 - Past Due Notice,143
+"Harman, Ron",123,200,279,,0
+"Servais, Lisa",124,40,109,,0
+"Onge, Page",125,200,265,,0
+"Wallace, Matthew",126,150,234,,0
+"Jones, Robert",127,200,294,,-302
+"Yarger, Arnold",128,150,244,,0
+"Skinner, Dan",129,200,257,,0
+"Haire, Christina",130,150,243,,0
+"Cornelius, Christina",131,200,289,,0
+"Lane, Sharon",132,75,146,,0
+"Wall, William",133,100,149,,0
+"C/O John Anderson, Anderson EyeCare",134,100,174,,0
+"Bradford, Mitchell",135,200,290,,0
+"Hooper, Mark",136,100,184,,0
+"TUCKER, PHILLIP B",137,200,290,,0
+"Caffey, Derwin",138,100,189,,0
+"McCracken, Laura",139,200,290,,0
+"Burkett, Ashley",140,50,90,,0
+"Miller, Heidijo",141,50,129,,0
+"Doyle, Elena",142,40,104,Step 2 - Past Due Notice,132
+"Robertson, Morgan",143,100,184,,0
+"LYLES, JOSHUA",144,80,162,,0
+"Gallimore, Timothy",145,100,184,,0
+"C/O Mark Salva, Gilead Sciences Inc-Venus",146,100,190,,0
+"Bunch, Ronette",147,100,171,,0
+"Tomassini-Rodriguez, Joel",148,100,190,,0
+"Huber, Lisa",149,100,179,,0
+"Bradberry, Jessica",150,100,172,,0
+"Frey, Emily",151,100,184,,0
+"Villanueva Martinez, Victor",152,100,174,,0
+"Dylingowska, Linda",153,50,102,,0
+"HEROD, JONATHAN",156,100,188,Step 4 - Pre-Lien,414
+"Nelson, Tyler",157,100,179,Step 2 - Past Due Notice,199
+"LAWRENCE, BATASHA",158,150,244,Step 6 - Past Due Reminder,881
+"Handley, Bradley",159,75,154,,0
+"Herod, Maritza",160,50,129,,-274
+"Mellen, Jason",161,150,234,,0
+"Harman, Ron",162,50,123,,0
+"Cunningham, Sarah",163,150,232,,0
+"Tomlin, Christine",164,150,237,,0
+"Burkett, Ashley",165,40,88,,0
+"Bell, Allan",166,15,89,,0
+"Baccus, Michelle",167,150,232,,0
+"Lopez, Olivette",168,15,89,,0
+"Scott, Michael (James)",169,120,201,,0
+"Haxton, Brandon",170,40,99,,0
+"Walker, Latarsha",172,75,144,Step 2 - Past Due Notice,172
+"Briley, Norman (Sonny)",173,50,119,,0
+"Rice, Carolyn",200,75,129,,0
+"Britt, Keith",201,150,209,,0
+"MCMOORE, TERRI",202,25,84,,0
+"Eagan, Kelly",203,25,89,,0
+"Brown, Bettie",204,25,85,,-93
+"Dylingowska, Linda",205,25,89,,0
+"Sturm, Tanya",206,100,184,,0
+"Walsh, Paul",207,100,167,,0
+"ARCHULETTA, WILLIAM",208,100,172,,0
+"Parks, Robert",209,300,309,,0
+"Burgess, Tyrondra",210,150,237,,0
+"Anderson, Michael",211,150,227,,0
+"Dowell, Renee",212,150,205,,"-1,704.00"
+"Yarbrough, Karen",213,50,129,,0
+"Coursey, Brandon",214,100,167,,0
+"Portee, Jennifer",215,100,174,,0
+"Decamp, Liza",216,60,127,,0
+"Barber, Edward",217,150,214,,0
+"Shoemake, Brittany",218,250,324,,0
+"C/O Deleen Cooper, Donelson Christian Academy",219,150,175,,0
+"Krosnes, Eric",220,250,279,,"-2,009.00"
+"C/O Charles Muncaster, Grape Juice Entertainment",221,150,229,,0
+"C/O Marcus Foster, Marcus Foster CPA/AdvanceCare",222,250,260,,0
+"Caffey, Derwin",223,150,224,,0
+"Ledford, Barbara",224,60,114,,0
+"Johnson, Tharon",225,75,129,,0
+"Cross, Phyllis",226,120,199,,0
+"Rice, Carolyn",227,150,239,,0
+"Condra, Laurie",228,120,194,,0
+"C/O Charles Muncaster, Grape Juice Entertainment",229,150,214,,0
+"Druganov, Nikola",230,120,189,,0
+"Fite, Jeffrey",231,150,240,,0
+"Lambert, Brock",232,60,114,,0
+"HUPPERT, TODD",233,150,237,,0
+"Garner, Kimberly",234,250,312,,0
+"Givens, Stephanie",235,100,184,Step 2 - Past Due Notice,212
+"Cheney, Renita (Wendy)",236,100,174,,0
+"Hale, Brandon",237,100,174,,0
+"Sykes, Mary Ann",238,100,167,,0
+"Derrick, Shatika",239,60,129,,0
+"Tucker, Tracey",240,40,99,,0
+"Borders, Ashley",241,120,182,Step 2 - Past Due Notice,210
+"Mitchell, Vandy",243,120,193,,0
+"King, Brent",244,80,151,,0
+"Horner, Caitlin",245,120,198,,0
+"Knautz, Michael",246,80,159,,0
+"Carrigan, Sherry (Kathi)",247,60,119,,0
+"McCutcheon, Scott",248,35,93,,0
+"Satterfield, James",249,80,134,,-146
+"Porter, Craig",250,80,154,,0
+"Lee Beard, Rebekah",251,40,109,,0
+"Johnson, Johnai",252,75,130,,0
+"Mulligan, Sam",253,60,129,,0
+"KERSELL, SHERRY",254,35,93,Step 2 - Past Due Notice,117
+"Cheney, Renita (Wendy)",255,150,237,,0
+"Jackson, Jeffrey",256,80,162,,0
+"Saunders, Chantaliscia",257,150,239,,0
+"Hardin, Thomas",258,80,154,,0
+"Huber, Lisa",259,120,193,,0
+"Paschall, Randi",260,80,139,,0
+"Cantrell, Linda",261,100,169,,0
+"Via, James",262,40,107,,0
+"Burrell, William",263,40,107,,0
+"Hutchinson, Dominique",264,50,124,,0
+"Greenfield, Brian",265,50,112,,"-1,232.00"
+"Dylingowska, Linda",266,25,85,,0
+"Johnson, Jade",267,150,239,Step 2 - Past Due Notice,267
+"Markle, Anna",268,50,119,,0
+"Dylingowska, Linda",269,100,167,,0
+"Johnston, Sarah Jane",270,100,167,,0
+"C/O Sarah Todebush, March of Dimes",271,100,169,,0
+"Collier, Bianca",272,100,182,Step 6 - Past Due Reminder,695
+"Davenport, Keith",274,40,95,,-93.5
+"WALKER, NEIL",275,100,167,,0
+"York, Warren",276,80,162,,0
+"Jones, Robert",277,100,174,,-182
+"Cannon, Riccardo",278,80,134,,0
+"McGinty, Toby",279,100,167,,0
+"Dylingowska, Linda",280,80,167,,0
+"Hale, Lizabeth",281,80,139,,0
+"Bass, Teresa",282,35,94,,0
+"Handley, Bradley",283,100,188,,0
+"Turchan, Keith",284,40,95,,-190
+"Covington, Brittani",285,100,169,,0
+"Clark, Corey",286,40,101,,0
+"Lively, Lacresia",287,40,100,,0
+"Riley, Elisabeth",288,150,220,,0
+"Walczyk, Matthew",289,80,144,,0
+"Lindlsey, Teresa",290,40,99,,0
+"Bailey, Phillip",291,80,162,Step 2 - Past Due Notice,190
+"Bridges, Leslie",292,80,154,,0
+"Phillips, Ebony",293,100,169,,0
+"Wade, Casundra",294,80,162,,0
+"Jackson, Bradley",295,100,179,,0
+"Vetter, Brandie",296,80,128,,0
+"Hall, Bruce",297,100,149,,0
+"Perry, Traci",298,40,99,,0
+"Turbeville, Michael",299,100,167,,0
+"WISER SAVAGE, WHITNEY LEIGH",300,100,162,,0
+"Daugherty, Joey",301,100,139,,0
+"Cook, Jacquelynda",302,100,109,,0
+"Schnarr, Tyler",303,100,144,,0
+"Mancia, Daniel",305,100,144,,0
+"Moss, Toyisha",306,100,158,Step 2 - Past Due Notice,186
+"WIlliams, Brittney",307,100,164,,0
+"Thompson, Christopher",308,100,139,,0
+"Ford, Sarah Beth",309,100,144,,0
+"Sabouathone, Angel",310,100,164,,0
+"Pritchett, Shannon",311,100,134,Step 2 - Past Due Notice,154
+"Ford, Sarah Beth",312,100,139,,0
+"Mason, Niesha",313,25,79,,0
+"Wallace, Dana",314,50,91,,0
+"King, Matthew",315,100,152,,0
+"Sallee, Thomas",316,100,144,,0
+"Null, Jennifer",317,100,151,,0
+"Degraphenreed, Phyllis",318,100,144,,0
+"Nolte, Susan Kelly",319,50,93,,0
+"Harmon, Beth",320,50,89,,0
+"RUSSELL, JENNIFER YORGASON",321,50,89,Step 4 - Pre-Lien,234
+"Potter, Timothy",322,50,99,,0
+"Camma, David",323,50,94,,0
+"Humes, Dayzia",324,50,102,Step 6 - Past Due Reminder,440
+"Bankston, Paula",325,50,90,Step 2 - Past Due Notice,118
+"Lee, Andre",326,50,94,,0
+"Walker, Cassandra",327,50,84,,0
+"Reid, Amy",328,50,89,Step 2 - Past Due Notice,117
+"Collins, Tiffany",329,50,94,,0
+"Dockstader, Tim",330,50,94,,0
+"Gault, Robert",331,50,94,,0
+"Love, Russell",332,50,84,,0
+"Mayo, Kelly",333,50,84,,0
+"Batchelor, Adrian",334,50,94,,0
+"Sargent, Shawn",336,50,93,,0
+"Renna, Sherry",337,50,88,Step 2 - Past Due Notice,112
+"Robbins, Roy",338,50,84,Step 2 - Past Due Notice,112
+"Vaughn, Donna",339,100,149,,0
+"Anderson, Jamal",340,100,152,,0
+"Grine, Michael",341,100,144,,0
+"Payne, Debra",342,100,144,,0
+"Parker, Rontez",343,40,79,,0
+"Ruffatto, Daniel",400,100,158,,0
+"Young, Steven",401,50,89,,0
+"Ciuk, Tamara",403,50,107,,0
+"Davidson 2nd, Richard",404,100,144,,0
+"McDonald, Beverly",405,200,164,,0
+"Jones, Laronda",406,200,204,,0
+"Peralta, Rolando",407,200,214,,0
+"C/O Stephanie Heckathorn, Mission BBQ",408,200,169,,0
+"WRIGHT, MARY",409,200,204,,0
+"Wilson, Rodrus",410,200,219,Step 2 - Past Due Notice,247
+"Bratcher, Brian",411,250,249,,0
+"Mossallati, Omar",412,250,184,,0
+"Bilbrey, Anthony",413,250,184,,0
+"Fraley, Jerry",414,250,247,,0
+"Russ, Gilbert",415,250,234,,0
+"Dickson, Emily",417,250,214,,0
+"Overstreet, Keith",418,250,243,,0
+"Durnin, Aaron",419,250,214,,0
+"Bilbrey, Anthony",420,250,226,,0
+"Moore, Fabian",421,250,239,Step 2 - Past Due Notice,267
+"Chesir, Regis",424,250,234,,0
+"Coleman, Patrice",425,250,216,,0
+"Kennedy, Joshua",426,100,149,,0
+"Sanchaz-Xinic, Whillman",427,150,188,,0
+"Huffman, Lesley",429,100,156,,0
+"C/O Brandy Binkley, Physiofit",430,100,104,,0
+"Gray, Shannon",432,100,157,,0
+"Lewis, Melinda",433,100,162,,0
+"Hogan, Ryan",434,100,109,,0
+"C/O Brandy Sevener, The Game Keep of Hermitage",435,100,158,,0
+"Palmer, Sherria",436,100,144,,0
+"Leff, Michael",437,100,164,,0
+"GARCIA, LORENA PEREZ",438,100,109,,0
+"Hernandez- Cana, Reina",439,100,167,,0
+"Young, Mikhol",440,100,144,Step 2 - Past Due Notice,172
+"Sweiderk, Carolyn",441,100,144,Step 2 - Past Due Notice,164
+"Alexander, Ivy",442,100,144,,0
+"ANDERSON, LARRY",443,100,109,,0
+"C/O John Cummings, Prince Fences",444,150,163,,0
+"Mcintyre, Jesse",445,150,158,,0
+"LAMBERTH, CAROLYN RENEE",446,150,163,,0
+"Odigie, Charlene",447,150,169,Step 2 - Past Due Notice,201
+"Bostic, Lyndon",448,150,158,Step 2 - Past Due Notice,186
+"John, Eric",449,150,190,,0
+"DONNERT, ELLEN MARIE",500,100,156,Step 2 - Past Due Notice,177
+"Thomas, Shawn",501,50,90,,0
+"Aids, Margaret",502,50,89,,0
+"WILSON, AMY MELISSA",503,50,95,,0
+"Holmes, Alexis",504,100,109,Step 4 - Pre-Lien,274
+"Coggins, Roger",505,200,219,,0
+"Coble, Judy",506,200,199,,0
+"REICHERT, WADE",507,200,174,,0
+"Harris, Bobby",508,200,207,,0
+"C/O David Schultz, Parmalee TN LLC",510,200,199,,0
+"McCracken, Margaret",511,200,206,,0
+"Mcilwain, Matt",512,250,239,,0
+"Womer, Shane",513,250,237,,0
+"Cremona, John",515,250,224,,0
+"MORENZONI, SCOTT",516,250,206,,0
+"Propst, Kevin",517,360,319,,0
+"Malone, Madison",519,360,289,,0
+"Nunez, Heysha",520,360,289,,0
+"Espinosa, Leobardo",521,360,319,,0
+"C/O Edward Dodd, EG DODD LLC",523,250,219,,0
+"Pinaula, Kianna",524,100,154,,0
+"Gosslee, Lydia",525,150,175,,0
+"C/O Jack Byrd, Law Offices of Jack Byrd",526,100,154,,-648
+"Alpsteg, William",527,100,124,,0
+"McKinney, Carl",528,100,164,Step 2 - Past Due Notice,192
+"Holiday, Verlaine",529,50,89,,0
+"Blair, NATALIE P",530,50,90,Step 2 - Past Due Notice,118
+"Nichols, Andrew",531,50,94,,0
+"Johnson, Penny",532,50,99,,0
+"Taylor, Tammy",533,50,90,,-90
+"Griffin, Jonathan",534,100,157,Step 2 - Past Due Notice,185
+"Callaway, Donald",535,100,156,,0
+"Childs, Charles",536,100,162,,0
+"Stewart, Kamara",537,100,156,,0
+"Stewart, Jason",538,100,149,,0
+"Chandler, Jessica",539,150,183,,0
+"Miller, Jacob",540,150,158,,0
+"Davis, Galen",543,150,188,,0
+"Mcafee, Carlyle",544,150,188,,0
+"Johnston, Damon",545,150,179,,0
+"Sims, Danielle",600,50,95,,0
+"C/O Troy R Crabtree, Telemate Health",601,50,90,,0
+"Salas-Rios, Jose",602,50,100,,0
+"Kincaid, Christopher",603,50,89,,0
+"Dunn, Richard",604,50,93,,0
+"Lair, Robert",605,50,89,,0
+"Walling, Eva",606,50,95,,0
+"C/O Austin Hunter, Hunter Hughes Enterprises LLC",607,200,164,,0
+"Gregg, Jeffery",608,200,219,,0
+"C/O Austin Hunter, Hunter Hughes Enterprises LLC",609,200,199,,0
+"Lenox, Lee",610,200,211,,0
+"C/O Leslie Marie Hanson, Strive Collegiate Academy",611,200,206,,0
+"Nokes, Ethan",612,200,185,,0
+"Konyha, Lori",613,200,211,,0
+"Mullican, Davis",614,200,192,,0
+"Ray-ensley, Lisa",615,200,199,,0
+"Whitaker, Abraham",616,200,199,,0
+"Lewis, Andre",617,200,199,,0
+"Allen Sr, Ernest",618,200,158,,0
+"Lewis, Andre",620,250,249,,0
+"Gross, Jaquice",622,250,219,,0
+"Clem, Elizabeth",623,150,184,,0
+"HALL, MICHALE",624,225,220,,0
+"Starks, Orlando",625,150,179,,0
+"Stenson, Jacob",626,100,144,,0
+"Creighton, A (Buck)",627,100,157,,0
+"MORENZONI, SCOTT",629,100,157,,0
+"LEE, TRACEY DANIELLE",630,150,175,,0
+"Huffaker, Jimmy",631,150,184,,0
+"C/O Milton Anderson, Milton G Anderson, CPA,PC",632,150,175,,0
+"SAVACOOL, SEAN CHRISTOPHER",633,150,175,,0
+"Abbott, Mary",635,150,190,,0
+"George, Amy",636,150,179,,0
+"Williams, Ingrid",637,150,193,Step 2 - Past Due Notice,212
+"Lair, Robert",638,150,179,,0
+"REICHERT, WADE",639,150,190,,0
+"Brown, Erin",640,150,187,,0
+"Behori, Gerardo",641,150,189,Step 2 - Past Due Notice,217
+"Dabill, Gary",700,50,99,,0
+"Bumgarner, Jessica",701,50,107,,0
+"Collins, Kimberly",702,50,95,,0
+"Bates, Leaann",703,50,90,,0
+"PETTY, KIMBERLY DENISE",704,50,95,,0
+"Zanitsch, David",705,50,89,,0
+"sheppard, Ashlyn",706,50,90,,0
+"Smith, Brady",707,200,219,,0
+"Olmstead, John",708,200,192,,0
+"Chandler, Jessica",709,200,206,,0
+"Brandt, John",710,200,209,,0
+"Brown, William",711,250,214,,0
+"Brooks, Shalli",713,250,219,,0
+"Eby, William",714,250,247,,0
+"C/O Saraj LEA, Nashville Pain & Wellness, PLC",716,300,287,,0
+"Sullivan, Joanne",717,300,277,,0
+"Pittman, Tristan",718,50,107,Step 6 - Past Due Reminder,455
+"Malone, Joseph",719,50,94,,0
+"C/O David Fields, Rock N Roll Sushi",720,50,95,,0
+"Mooney, Samuel",721,50,99,,0
+"Gilliam, Quantashia",722,50,99,,0
+"Ambrose, Randall",723,50,89,,0
+"Clarke, Stephen",725,50,95,Step 6 - Past Due Reminder,419
+"Kirkland, Russell",726,50,89,,0
+"Dylingowska, Linda",727,50,93,,0
+"Douglas, Holly",728,100,130,,0
+"Allen, Randy",729,100,144,Step 4 - Pre-Lien,344
+"Williams, Stephanie",730,100,157,,0
+"LEWIS, SAM",732,150,167,,0
+"C/O Austin Hunter, Hunter Hughes Enterprises LLC",733,150,183,,0
+"C/O Austin Hunter, Hunter Hughes Enterprises LLC",734,150,169,,0
+"Worney, Mamie",735,150,175,,0
+"Strong, Julie",800,100,144,,0
+"Wright, Kourtney",801,100,0,,-32
+"Carter-Woods, Torria",802,100,149,,0
+"STOCKWELL, NATHANIEL",803,100,146,,0
+"Clawson, John",804,100,109,Step 2 - Past Due Notice,137
+"Parson, Krissy",806,100,142,,0
+"Pearcy, Bill",807,100,144,,0
+"Coggins, David",8000,250,198,,0
+"Coggins, David",8001,200,229,,0
+"Taylor, Laura",8002,250,276,,0
+"Severson, Lisa",8003,200,259,,0
+"Taylor, Laura",8004,250,281,,0
+"Thigpen Iii, Delbert",8005,200,282,,0
+"Taylor, Laura",8006,250,310,,0
+"Gunselman, Rhonda",8007,200,264,,0
+"Fay, Joel",8008,250,301,,0
+"Fraley, Jerry",8009,200,284,,0
+"C/O Brian Ledford, Picture This Creative Framing",8010,250,312,,0
+"Severson, Nickolas",8011,200,292,,0
+"Robinson, Stan",8012,250,281,,0
+"Jackson, Marlene",8013,200,259,Step 2 - Past Due Notice,287
+"Gutknecht, Mark",8014,250,317,,0
+"Ewin, Loleathia",8015,300,340,,0
+"Elgin, Mark",8016,25,92,,0
+"Johnson, Alicia",8017,100,168,,0
+"C/O Kelly Newman, Luv The Paw",8018,100,174,,0
+"Russell, Jeremy",8019,25,84,,0
+"Strachan, Larry",8020,50,114,,0
+"Smith, Shaun",8021,150,239,,0
+"Rubel, Nancy",8022,150,239,,0
+"Patel, Taral",8023,150,232,,0
+"Fitzgerald, Jessie",8024,150,189,,-197
+"Carter-Woods, Torria",8026,150,239,,0
+"Gray, Albert",8027,150,214,,0
+"Nieves, Jason",8028,150,239,,0
+"Bradford, Mitchell",8029,120,194,,0
+"Horton, Morgan",8030,50,119,Step 2 - Past Due Notice,147
+"Dunaway, Joel",8031,50,132,,0
+"Binkley, Odell",8032,25,92,,0
+"Saunders, Kimber",8033,100,188,,0
+"John, Eric",8034,100,164,,0
+"C/O Raymond (Glynn) Mitchell, WEK & Associates, Inc",8100,100,143,,0
+"StorPlaceLP, StorPlaceof Lebanon Pikie",8101,100,0,,-36.8
+"C/O Mark A Borders, Devoted Health",8103,150,187,,0
+"Rubel, Nancy",8104,150,179,,0
+"C/O Lebanon Pike StorPlace, Freeman Management Corp",8105,150,0,,0
+"Cook, Jacquelynda",8106,300,359,,0
+"Pearl, Gayle",8107,50,129,,0
+"C/O Deleen Cooper, Donelson Christian Academy",8108,300,335,,0
+"MACGAVIN, MORGAN",8109,50,129,,0
+"Johnson, Pam",8110,300,359,Step 2 - Past Due Notice,387
+"Key, William",8111,50,130,,0
+"C/O Saundra Raynak, Furnished with Finesse",8112,300,339,,0
+"Harris, Gail",8113,200,259,,0
+"Smith, Lee",8114,300,335,,0
+"WHITE III, CHARLES (SKIP)",8115,200,277,,0
+"C/O Gerad Genovese, Genesis Diamonds",8116,300,359,,0
+"Hisatake, Roy",8117,200,279,,0
+"C/O Gerad Genovese, Genesis Diamonds",8118,300,339,,0
+"Rubel, Nancy",8119,200,289,,0
+"C/O Saundra Raynak, Furnished with Finesse",8120,300,329,,0
+"Grigsby, Michele",8121,300,329,,0
+"Hernandez, Gabriel",8123,100,174,,0
+"Willis, Alfred",8124,100,163,,0
+"John, Eric",8125,100,171,,0
+"Turner, Virginia",8126,100,174,,0
+"Holmes, Alexis",8127,100,169,,0
+"Aurand, Conner",8128,100,194,,0
+"Williams, Viola",8129,100,194,Step 2 - Past Due Notice,222
+"Muncaster, Charles",8130,100,188,,0
+"Sanderson, Brent",8131,100,174,,0
+"Carver, Dalton",8132,200,287,,0
+"Knox, LaChristal",8133,100,167,,0
+"Hunt, Rashida",8200,250,304,,0
+"Watson, Brandon",8201,200,295,,0
+"Gaither, Anne",8202,250,303,,0
+"Carpenter, Jason",8203,200,265,Step 2 - Past Due Notice,293
+"C/O Saundra Raynak, Furnished with Finesse",8204,250,299,,0
+"Pearcy, Bill",8205,200,199,,0
+"Fraley, Jerry",8206,250,311,,0
+"Grigsby, Michele",8207,200,259,,0
+"Garmendia, William",8208,250,312,,0
+"Jones, Jerry",8209,200,261,,0
+"Stall, Robert(Bob)",8210,250,258,,0
+"C/O Susan Willis, Sangha Leadership Group",8211,200,282,,0
+"Willis, Michael",8212,250,299,,0
+"NEELY, KEITH",8213,200,282,,0
+"C/O Saundra Raynak, Furnished with Finesse",8214,0,309,,0
+"Foley, Benjamin",8215,300,339,,0
+"C/O Kimberly Kmiec, Nashville Cat Rescue",8216,100,167,,0
+"Well, Erica",8217,100,167,,0
+"Carpenter, Jason",8219,100,182,Step 2 - Past Due Notice,210
+"Donovan, Nancy",8220,50,118,,0
+"Lawson, Mary Ruth",8221,100,169,,0
+"Bryant, Brandon",8222,50,129,,0
+"Johnson, Justin",8223,100,169,Step 2 - Past Due Notice,197
+"Waters, Marlena",8224,50,112,,0
+"Pillow, Janet",8225,100,167,Step 4 - Pre-Lien,398
+"Pillow, Janet",8226,50,119,Step 2 - Past Due Notice,147
+"Peak, Tabitha",8227,100,167,,0
+"Grooms, Belinda",8228,50,109,,0
+"Shaw, Marta",8229,100,174,,0
+"Iniodu, Patricia",8230,50,129,Step 2 - Past Due Notice,157
+"ZAK, DAN",8231,100,188,,-187
+"McLaughlin, Lisa",8232,50,115,,0
+"Watson, Brandon",8233,100,182,,0
+"McPeake, Michael",8234,200,284,,0
+"Bradley, Donielle",8235,100,167,Step 2 - Past Due Notice,195
+"Turner, Karen",8236,80,152,,0
+"Swalls, Hannah",8237,100,174,,0
+"Services C/O Faye Ellis, FMS Commerical Real Estate",8300,150,226,,0
+"Zanitsch, Sara",8301,200,284,,0
+"Lewis, Andre",8302,150,249,,0
+"Middlebrooks, Paula",8303,200,259,,0
+"Norment, Alvin",8304,150,221,,0
+"Matheson, Jack (Jay)",8305,200,259,,0
+"Perry, Traci",8306,150,221,,0
+"Allen, Carole",8307,200,259,,0
+"Perry, Arnetia",8308,150,224,,0
+"Rhodes, Larry",8309,200,249,,0
+"Bullington, Patricia",8310,150,232,,0
+"Floyd, Cynthia",8311,200,292,,0
+"Congelos, Jamie",8312,150,239,,0
+"C/O Chris ESTES, CBRE",8313,200,274,,0
+"FOSTER, JAMES",8314,150,227,,0
+"Ramdass, Nadia",8315,200,332,,0
+"Wells, Jimmy",8316,100,167,,0
+"C/O Daryl Woods, Lather Nashville",8317,100,167,,0
+"Allen, Carole",8318,150,243,,0
+"C/O Adam Smith, Summit Surgery Center",8319,100,184,,0
+"Modricker, Veronica",8320,150,221,,0
+"Ward, Candace",8321,100,164,,0
+"C/O Christina Osisek, Elite Academy of Dance",8322,150,239,,0
+"Myers, Melissa",8324,150,232,,0
+"Harris, Shauna",8325,100,172,,0
+"Snell, Willard",8326,150,226,,0
+"Carter-Woods, Torria",8327,100,174,,0
+"Brooks, Elaine",8328,150,232,,0
+"Johnson, Kenneth",8329,100,184,,0
+"Zimmerle, Bailey",8330,150,186,,0
+"Casey, Michelle",8331,100,167,Step 2 - Past Due Notice,195
+"Garza, Brandon",8332,150,249,,0
+"KENDALL, STEVEN",8333,100,183,,0
+"ZAK, DAN",8334,200,253,,-261
+"Lewis, Andre",8335,100,174,,0
+"Mccomb, Taryn",8336,80,162,,0
+"White, David",8337,100,174,,0
+"Davenport, Keith",8338,100,169,,-177
+"Gutknecht, Mark",8339,100,182,,0
+"Wiggins, Adam",9004,270,107,,0
+"C/O Edward Dodd, EG DODD LLC",9005,270,149,,0
+"Dixon, Byron",9006,270,144,,0
+"C/O Edward Dodd, EG DODD LLC",9007,270,149,,0
+"Lewis, Andre",9008,270,135,,0
+"Lewis, Andre",9009,270,149,,0
+"Lewis, Andre",9010,270,149,,0
+"Leff, Michael",9012,270,149,,0
+"SIMPSON, GEORGE",9013,270,152,,0
+"C/O Pamela Hancock, Hancock Enterprises Inc",9014,300,199,,0
+"Woods, Michael",9015,300,209,,0
+"Swan, Matthew",9016,300,227,,0
+"Calderon, Rafael",9017,300,199,,0
+"Dennison, Nancee",9018,300,222,,0
+"C/O Thomas Proctor, Security Erectors Group Inc",9019,300,214,,0
+"C/O Thomas Proctor, Security Erectors Group Inc",9020,300,209,,0
+"Christian, Dan",9021,300,188,,0
+"Medd, James",9022,300,209,,0
+"Murphy, Susan",9023,300,232,,0
+"Lee, Eric",9024,360,159,,0
+"Feldpausch, Joe",9025,360,149,,0
+"C/O Daniel Ezelle, Well Entertainment, LLC",9026,360,159,,0
+"Lewis, Andre",9027,360,159,,0
+"Dahmen, Tyler",9029,360,154,,0
+"HALL, MARVIN",9031,360,162,,-16.06
+"C/O Brittney Davis, KDs Kitchen LLC",9032,450,174,,0
+"Martin, Karen",9033,450,114,,0
+"Overstreet, Keith",9034,360,169,,0
+"C/O Madeline Mays, Amerigroup",9035,360,167,,0
+"Troup, Bill",9037,360,156,,0
+"C/O Kimberly Kmiec, Nashville Cat Rescue",9038,360,110,,0
+"Flores, Hernan",9039,360,156,,0
+"C/O Aldric CONDREY, Burnt Endz",9040,360,153,,0
+"C/O Gerad Genovese, Genesis Diamonds",9041,360,158,,0
+"Advertising, Lamar",SUITE1,0,620,,0
+Count:  548,"77,485.00","98,975.50","9,393.00",829.2,
+5/13/2024,10:39:51 PM,Page -1 of 1,,,
